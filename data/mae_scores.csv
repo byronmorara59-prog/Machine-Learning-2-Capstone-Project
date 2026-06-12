@@ -1,0 +1,6 @@
+model,mae
+Baseline,5.36
+Linear Regression,3.98
+AR,3.84
+ARMA,3.85
+SARIMA,3.59
